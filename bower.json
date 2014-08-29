@@ -1,0 +1,7 @@
+{
+  "name": "core-a11y-keys#gh-pages",
+  "private": true,
+  "dependencies": {
+    "core-a11y-keys": "Polymer/core-a11y-keys#master"
+  }
+}
